@@ -10,3 +10,7 @@
 go run
 
 go build
+
+
+## memo
+[ポインタレシーバ](https://go-tour-jp.appspot.com/methods/8)
